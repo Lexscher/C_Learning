@@ -1,3 +1,0 @@
-/Users/alexanderschelchere/Alpha/2018/lessons/C_Learning/L_01_HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/alexanderschelchere/Alpha/2018/lessons/C_Learning/L_01_HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/alexanderschelchere/Alpha/2018/lessons/C_Learning/L_01_HelloWorld/cmake-build-debug/CMakeFiles/L_01_HelloWorld.dir
